@@ -1,0 +1,22 @@
+.left-bar{
+    width: 200px;
+    float: left;
+    
+    
+}
+.content{
+    width: 800px;
+    float: left;
+}
+
+.conteiner{
+    width: 1000px;
+    
+}
+
+.bg-red{
+    background-color: red;
+}
+.bg-blue{
+    background-color: blue;
+}
